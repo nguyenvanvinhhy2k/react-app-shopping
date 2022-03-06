@@ -1,0 +1,8 @@
+li{
+    cursor: pointer;
+}
+.completed {
+    color: #ccc;
+    font-size:italic;
+    text-decoration: line-through;
+}
